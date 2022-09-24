@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sajanTomar/cart_react/static/css/main.1a1aa0ea.css",
+    "main.js": "/sajanTomar/cart_react/static/js/main.3e4e2522.js",
+    "index.html": "/sajanTomar/cart_react/index.html",
+    "main.1a1aa0ea.css.map": "/sajanTomar/cart_react/static/css/main.1a1aa0ea.css.map",
+    "main.3e4e2522.js.map": "/sajanTomar/cart_react/static/js/main.3e4e2522.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a1aa0ea.css",
+    "static/js/main.3e4e2522.js"
+  ]
+}
